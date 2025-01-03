@@ -1,0 +1,9 @@
+div{
+   background-color: brown; 
+   border: 10px dashed rebeccapurple;
+   padding: 10px 20px 30px;
+   margin: 10px;
+   width: 50%;
+   height: 200px;
+   box-shadow: 10px 20px 30px blue;
+}
